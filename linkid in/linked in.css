@@ -1,0 +1,237 @@
+    body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img img{
+    position: relative;
+   background-size: 500px;
+   left: 100px;
+   height:100px ;
+   display: flex;
+   top: -20px;
+   display: flex;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    position:relative;
+    top: -70px;
+    
+    left: 650px;
+    bottom: 20px;
+    
+
+
+}
+
+.list1{
+display: block;
+position: relative;
+bottom: 25px;
+left: 40px;
+
+}
+.list2{
+    display: block;
+    position: relative;
+    bottom: 22px;
+    left: 20px;
+}
+.btn{
+    border-left: 1px solid black;
+    padding-left: 30px;
+    margin:10px;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.sign-btn{
+    border: 1px solid #0a66c2;
+    border-radius: 20px;
+    color: #0a66c2;
+    padding: 10px;
+    width: 90px;
+    font-weight: 600;
+    position: relative;
+    left: 30px;
+}
+.join-btn{
+    background-color: transparent;
+    border: none;
+
+}
+.box1{
+    list-style-type: none;
+    border: 1px solid black;
+    border-radius: 2px;
+    position: relative;
+    top: 20px;
+    height: 40px;
+    width:350px;
+    left: 20px;
+
+    
+    
+
+    
+}
+.tool{
+    position: relative;
+    left: 105px;
+    bottom: 30px;
+    height: 50px;
+}
+/* .box{
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+.box1{
+    position: relative;
+    top: 10px;
+    bottom: 50px;
+} */
+ .box{
+    position: relative;
+    top: 50px;
+    height: 100px;
+    left: 40px;
+    width: 500px;
+    
+
+    
+ }
+ .email{
+    position: relative;
+    bottom: 30px;
+    left: 75px;
+    font-size: 10px;
+ }
+ .phone{
+    position: relative;
+    bottom: 25px;
+    left: 75px;
+    width: 200px;
+    height: 200px;
+
+ }
+ .password{
+    position: relative;
+    bottom: 145px;
+    left: 25px;
+ }
+ .password1{
+    position: relative;
+    bottom: 35px;
+    left: 50px;
+    font-size: 10px;
+    
+ }
+ .show{
+    color: #0a66c2;
+    font-size: 11px;
+    position: relative;
+    bottom: 175px;
+    left: 345px;
+ }
+ .forgot{
+    color: #0a66c2;
+    font-size:13px ;
+    position: relative;
+    bottom: 130px;
+    left: 80px;
+
+ }
+ .sign{
+    position: relative;
+    left: 85px;
+    bottom: 115px;
+    
+ }
+ .in{
+    color:white;
+    position: relative;
+    right: 185px;
+    font-size: 14px;
+ }
+.line{
+    border-bottom:solid 1px;
+    width:120px;
+    position: relative;
+    left: 90px;
+    bottom: 110px;
+}
+.or{
+    position: relative;
+    left: 138px;
+    font-size: 14px;
+    top: 10px;
+}
+.line2{
+    border-bottom: solid 1px;
+    position: relative;
+    left: 170px;
+    bottom: 110px;
+    top: 2px;
+    
+}
+.google{
+    position: relative;
+    top: 20px;
+
+        
+}
+.image{
+    position: relative;
+    left: 680px;
+    bottom: 540px;
+    display: flex;
+    
+ 
+
+}
+.google{
+    position: relative;
+    left: 90px;
+    top: -75px;
+    
+}
+.googlelogo{
+    position: relative;
+    bottom: 650px;
+    
+}
+.logo1{
+    position: relative;
+    width: 55px;
+    left: 150px;
+    bottom: 11.5px;
+}
+.signGG{
+    position: relative;
+    bottom: 687px;
+    font-size: 13px;
+    left: 200px;
+}
+.last{
+    
+    position: relative;
+    bottom: 665px;
+    left: 93px;
+
+}
+.newlinkedin{
+    position: relative;
+    bottom: 689px;
+    font-size: 13px;
+    left: 165px;
+}
+
+    
+   
+
+
+
